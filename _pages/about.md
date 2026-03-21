@@ -17,42 +17,66 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a Master’s student in Transportation Engineering at Tongji University, supervised by [Prof. Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) and [Prof. Ye Tian](https://tops.tongji.edu.cn/info/1031/1185.htm). I received my Bachelor's degree from the same University.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research focuses on the intersection of virtual reality (particularly CAVE systems), game theory, behavioral psychology, and AI safety, with applications in intelligent transportation systems and autonomous driving. My goal is to build safer and more trustworthy human–machine interaction systems.
+
+If you are interested in related questions, I am always happy to connect and exchange ideas.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.02*: &nbsp;🎉🎉 My paper **When Trust Meets Deception: Evaluating the Contextual Effectiveness of Deceptive eHMI in Autonomous Vehicle Interactions** has been accepted by IEEE Transactions on Intelligent Transportation Systems. 🚦 This work will be available online soon. 
+- *2026.01*: &nbsp;🎉🎉 My paper **Should Benevolent Deception Be Allowed in EHMI? A Mechanism Explanation Based on Game Theory** has been accepted by IEEE Transactions on Intelligent Transportation Systems. 📊
+- *2024.04*: &nbsp;🎉🎉 My paper **Should Altruistic Deception of HAVs be Permitted? A Case Study of Unprotected Left Turns under EHMI Application** has been accepted by the 35th IEEE Intelligent Vehicles Symposium (IV 2024). I will present this work orally on June 21–24, 2026, in Jeju, Korea. 🚗
+- *2023.10*: &nbsp;🎉🎉 My recent work **Impact of EHMI on Alleviation of Human-Machine Conflict - Taking Unprotected Left Turn Scenario as an Example** has been accepted to TRB 2024.💡 I will be attending the conference from Jan 7–14, 2024 in Washington, D.C.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'></div><img src='images/trc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Aligning with Human Values to Enhance Interaction: An eHMI-Mediated Lane-Changing Negotiation Strategy Using Bayesian Inference
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Boyao Peng, Ye Tian, **Linkun Liu**, under review. [Code](https://github.com/BoyaoPeng0309/Information-Manipulation-with-eHMI)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'></div><img src='images/tits2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+When Trust Meets Deception: Evaluating the Contextual Effectiveness of Deceptive eHMI in Autonomous Vehicle Interactions
+
+**Linkun Liu**, Jian Sun, Ye Tian, accepted in press by IEEE Transactions on Intelligent Transportation Systems (TITS). [Code](https://github.com/liulinkun6677/eHMI-VR)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'></div><img src='images/tits1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Should Benevolent Deception Be Allowed in EHMI? A Mechanism Explanation Based on Game Theory](https://ieeexplore.ieee.org/document/11364094)
+
+**Linkun Liu**, Jian Sun, Ye Tian, IEEE Transactions on Intelligent Transportation Systems (TITS), DOI: 10.1109/TITS.2026.3654161.
+
+</div>
+</div>
+
+- [Should Altruistic Deception of HAVs be Permitted? A Case Study of Unprotected Left Turns under EHMI Application](https://ieeexplore.ieee.org/document/10588372), **Linkun Liu**, Yiru Liu, Ye Tian, He Zhang, 2024 IEEE Intelligent Vehicles Symposium (IV)(oral).
+- Impact of EHMI on Alleviation of Human-Machine Conflict - Taking Unprotected Left Turn Scenario as an Example, **Linkun Liu**, Yiru Liu, Ye Tian, He Zhang, 103rd Annual Meeting of the Transportation Research Board (TRB).
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023-2024* Outstanding Student Award at Tongji University (Top 5%)
+- *2023-2024* Outstanding Master’s Student Scholarship, Tongji University
+- *2024.11* ”High-Quality Classroom” Teaching Award, Tongji University Affiliated Experimental Primary School
+- *2021.12* First Prize, Shanghai Complex Intersection Improvement and Management Plan, Shanghai Institute of Traffic Engineering
+- *2019-2020* Outstanding Undergraduate Student Scholarship, Tongji University
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.06 - now*, Master of Traffic Engineering, Tongji University, Shanghai, China
+- *2019.09 - 2023.06*, , Bachelor of Traffic Engineering, Tongji University, Shanghai, China 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 📚 Academic Services
+## Reviews
+- Journal Reviewer: IEEE Transactions on Intelligent Transportation Systems (TITS), IEEE Transactions on Intelligent Vehicles (TIV)
+- Conference Reviewer: IEEE ITSC, IEEE IV
