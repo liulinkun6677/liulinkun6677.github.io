@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master’s student in Transportation Engineering at Tongji University, supervised by [Prof. Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) and [Prof. Ye Tian](https://tops.tongji.edu.cn/info/1031/1185.htm). I received my Bachelor's degree from the same University.
+I am a Master’s student in Transportation Engineering at Tongji University, supervised by [Prof. Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) and [Prof. Ye Tian](https://tops.tongji.edu.cn/info/1031/1185.htm). I received my Bachelor's degree from the same university.
 
 My research focuses on the intersection of virtual reality (particularly CAVE systems), game theory, behavioral psychology, and AI safety, with applications in intelligent transportation systems and autonomous driving. My goal is to build safer and more trustworthy human–machine interaction systems.
 
@@ -63,7 +63,7 @@ When Trust Meets Deception: Evaluating the Contextual Effectiveness of Deceptive
 </div>
 
 - [Should Altruistic Deception of HAVs be Permitted? A Case Study of Unprotected Left Turns under EHMI Application](https://ieeexplore.ieee.org/document/10588372), **Linkun Liu**, Yiru Liu, Ye Tian, He Zhang, 2024 IEEE Intelligent Vehicles Symposium (IV)(oral).
-- Impact of EHMI on Alleviation of Human-Machine Conflict - Taking Unprotected Left Turn Scenario as an Example, **Linkun Liu**, Yiru Liu, Ye Tian, He Zhang, 103rd Annual Meeting of the Transportation Research Board (TRB).
+- Impact of EHMI on Alleviation of Human-Machine Conflict - Taking Unprotected Left Turn Scenario as an Example, **Linkun Liu**, Yiru Liu, Jian Sun, Ye Tian, He Zhang, 103rd Annual Meeting of the Transportation Research Board (TRB).
 
 # 🎖 Honors and Awards
 - *2023-2024* Outstanding Student Award at Tongji University (Top 5%)
@@ -74,7 +74,7 @@ When Trust Meets Deception: Evaluating the Contextual Effectiveness of Deceptive
 
 # 📖 Educations
 - *2023.06 - now*, Master of Traffic Engineering, Tongji University, Shanghai, China
-- *2019.09 - 2023.06*, , Bachelor of Traffic Engineering, Tongji University, Shanghai, China 
+- *2019.09 - 2023.06*, Bachelor of Traffic Engineering, Tongji University, Shanghai, China 
 
 # 📚 Academic Services
 ## Reviews
