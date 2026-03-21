@@ -32,7 +32,7 @@ If you are interested in related questions, I am always happy to connect and exc
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'></div><img src='images/trc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/trc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Aligning with Human Values to Enhance Interaction: An eHMI-Mediated Lane-Changing Negotiation Strategy Using Bayesian Inference
@@ -42,7 +42,7 @@ Boyao Peng, Ye Tian, **Linkun Liu**, under review. [Code](https://github.com/Boy
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'></div><img src='images/tits2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/tits2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 When Trust Meets Deception: Evaluating the Contextual Effectiveness of Deceptive eHMI in Autonomous Vehicle Interactions
@@ -52,7 +52,7 @@ When Trust Meets Deception: Evaluating the Contextual Effectiveness of Deceptive
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'></div><img src='images/tits1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/tits1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Should Benevolent Deception Be Allowed in EHMI? A Mechanism Explanation Based on Game Theory](https://ieeexplore.ieee.org/document/11364094)
