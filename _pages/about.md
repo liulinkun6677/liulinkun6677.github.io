@@ -25,10 +25,10 @@ If you are interested in related questions, I am always happy to connect and exc
 
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉 My paper **When Trust Meets Deception: Evaluating the Contextual Effectiveness of Deceptive eHMI in Autonomous Vehicle Interactions** has been accepted by IEEE Transactions on Intelligent Transportation Systems. 🚦 This work will be available online soon. 
-- *2026.01*: &nbsp;🎉🎉 My paper **Should Benevolent Deception Be Allowed in EHMI? A Mechanism Explanation Based on Game Theory** has been accepted by IEEE Transactions on Intelligent Transportation Systems. 📊
-- *2024.04*: &nbsp;🎉🎉 My paper **Should Altruistic Deception of HAVs be Permitted? A Case Study of Unprotected Left Turns under EHMI Application** has been accepted by the 35th IEEE Intelligent Vehicles Symposium (IV 2024). I will present this work orally on June 21–24, 2026, in Jeju, Korea. 🚗
-- *2023.10*: &nbsp;🎉🎉 My recent work **Impact of EHMI on Alleviation of Human-Machine Conflict - Taking Unprotected Left Turn Scenario as an Example** has been accepted to TRB 2024.💡 I will be attending the conference from Jan 7–14, 2024 in Washington, D.C.
+- *2026.02*: &nbsp;🎉🎉 My recent work **When Trust Meets Deception: Evaluating the Contextual Effectiveness of Deceptive eHMI in Autonomous Vehicle Interactions** has been accepted by **IEEE Transactions on Intelligent Transportation Systems**(IF=8.4). 🚦 This work will be available online soon. 
+- *2026.01*: &nbsp;🎉🎉 My paper **Should Benevolent Deception Be Allowed in EHMI? A Mechanism Explanation Based on Game Theory** has been accepted by **IEEE Transactions on Intelligent Transportation Systems**(IF=8.4). 📊
+- *2024.04*: &nbsp;🎉🎉 My paper **Should Altruistic Deception of HAVs be Permitted? A Case Study of Unprotected Left Turns under EHMI Application** has been accepted by the 35th IEEE Intelligent Vehicles Symposium (IV 2024). I will present this work orally on June 21–24, 2024, in Jeju, Korea. 🚗
+- *2023.10*: &nbsp;🎉🎉 My paper **Impact of EHMI on Alleviation of Human-Machine Conflict - Taking Unprotected Left Turn Scenario as an Example** has been accepted to TRB 2024.💡 I will be attending the conference from Jan 7–14, 2024 in Washington, D.C.
 
 # 📝 Publications 
 
@@ -73,8 +73,8 @@ When Trust Meets Deception: Evaluating the Contextual Effectiveness of Deceptive
 - *2019-2020* Outstanding Undergraduate Student Scholarship, Tongji University
 
 # 📖 Educations
-- *2023.06 - now*, Master of Traffic Engineering, Tongji University, Shanghai, China
-- *2019.09 - 2023.06*, Bachelor of Traffic Engineering, Tongji University, Shanghai, China 
+- *2023.09 - now*, Master of Transportation Engineering, Tongji University, Shanghai, China
+- *2019.09 - 2023.06*, Bachelor of Transportation Engineering, Tongji University, Shanghai, China 
 
 # 📚 Academic Services
 ## Reviews
