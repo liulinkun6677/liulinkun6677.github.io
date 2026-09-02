@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master’s student in Transportation Engineering at Tongji University, supervised by [Prof. Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) and [Prof. Ye Tian](https://tops.tongji.edu.cn/info/1031/1185.htm). I received my Bachelor's degree from the same university.
+I am a Ph.D student in Cho Chun Shik Graduate School of Mobility at Tongji University, supervised by [Prof. Inhi Kim](https://www.inhi.kim/people/7b25f228-be90-8273-af58-81dc24cc9870). I received my Bachelor's and Master's degrees in Transportation Engineering from Tongji University, supervised by [Prof. Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) and [Prof. Ye Tian](https://tops.tongji.edu.cn/info/1031/1185.htm).
 
-My research focuses on the intersection of virtual reality (particularly CAVE systems), game theory, behavioral psychology, and AI safety, with applications in intelligent transportation systems and autonomous driving. My goal is to build safer and more trustworthy human–machine interaction systems.
+My research focuses on human-machine interaction, game theory, behavioral psychology, and AI safety, with applications in intelligent transportation systems and autonomous driving. My goal is to build safer and more trustworthy intelligent transportation systems.
 
 If you are interested in related questions, I am always happy to connect and exchange ideas.
 
@@ -35,9 +35,9 @@ If you are interested in related questions, I am always happy to connect and exc
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/trc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Aligning with Human Values to Enhance Interaction: An eHMI-Mediated Lane-Changing Negotiation Strategy Using Bayesian Inference
+What if eHMI Signals Are Misaligned with Vehicle Actions? A Game-Theoretic Analysis of AV–HV Lane-Changing Interactions
 
-Boyao Peng, Ye Tian, **Linkun Liu**, under review. [Code](https://github.com/BoyaoPeng0309/Information-Manipulation-with-eHMI)
+Boyao Peng, **Linkun Liu**, Jian Sun, Ye Tian, under review.
 
 </div>
 </div>
@@ -73,7 +73,8 @@ When Trust Meets Deception: Evaluating the Contextual Effectiveness of Deceptive
 - *2019-2020* Outstanding Undergraduate Student Scholarship, Tongji University
 
 # 📖 Educations
-- *2023.09 - now*, Master of Transportation Engineering, Tongji University, Shanghai, China
+- *2026.09 - now*, Ph.D, Korea Advanced Institute of Science and Technology, Daejeon, Korea
+- *2023.09 - 2026.06*, Master of Transportation Engineering, Tongji University, Shanghai, China
 - *2019.09 - 2023.06*, Bachelor of Transportation Engineering, Tongji University, Shanghai, China 
 
 # 📚 Academic Services

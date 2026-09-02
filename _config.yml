@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Linkun Liu"
-description              : "Focusing on human-machine interaction in autonomous driving."
+description              : "Focusing on intelligent transportation systems and autonomous vehicles."
 repository               : "liulinkun6677/liulinkun6677.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Linkun Liu(刘林坤)"
   avatar           : "images/llk.jpg"
-  bio              : "Tongji University"
-  location         : "Shanghai, China"
+  bio              : "Korea Advanced Institute of Science and Technology"
+  location         : "Daejeon, Korea"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=rUaBTE0AAAAJ"
-  email            : "aliulinkun@tongji.edu.cn"
+  email            : "liulinkun@kaist.ac.kr"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
