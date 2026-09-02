@@ -40,6 +40,245 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* ========================================================================== */
+/*   Personal academic homepage refresh                                      */
+/* ========================================================================== */
+
+:root {
+    --ink: #17263d;
+    --muted-ink: #627188;
+    --accent: #2f6f8f;
+    --accent-soft: #e8f2f5;
+    --paper: #ffffff;
+    --canvas: #f5f7fa;
+    --line: #dce5eb;
+    --shadow: 0 16px 40px rgba(23, 38, 61, .08);
+}
+
+html {
+    scroll-behavior: smooth;
+    background: var(--canvas);
+}
+
+body {
+    background: var(--canvas);
+    color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.75;
+}
+
+.masthead {
+    background: rgba(255, 255, 255, .94);
+    border-bottom: 1px solid rgba(220, 229, 235, .9);
+    box-shadow: 0 4px 18px rgba(23, 38, 61, .04);
+    backdrop-filter: blur(12px);
+
+    &__inner-wrap {
+        padding-top: .7em;
+        padding-bottom: .7em;
+    }
+}
+
+.masthead__menu-item {
+    a {
+        color: var(--muted-ink);
+        font-size: .88rem;
+        letter-spacing: .01em;
+        transition: color .2s ease, background .2s ease;
+
+        &:hover,
+        &:focus {
+            color: var(--accent);
+        }
+    }
+
+    &--lg a {
+        color: var(--ink);
+        font-size: .96rem;
+        letter-spacing: .02em;
+    }
+}
+
+#main {
+    max-width: 1240px;
+    margin-top: 2.5em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+}
+
+.sidebar {
+    padding: 1.5em;
+    background: var(--paper);
+    border: 1px solid var(--line);
+    border-radius: 18px;
+    box-shadow: var(--shadow);
+
+    .author__avatar img {
+        padding: 4px;
+        border: 1px solid var(--line);
+        box-shadow: 0 8px 22px rgba(23, 38, 61, .1);
+    }
+
+    .author__name {
+        color: var(--ink);
+        letter-spacing: -.02em;
+    }
+
+    .author__bio {
+        color: var(--muted-ink);
+        line-height: 1.5;
+    }
+
+    .author__urls {
+        color: var(--muted-ink);
+
+        li:first-child {
+            padding: .8em .9em;
+            color: var(--accent);
+            background: var(--accent-soft);
+            border-radius: 10px;
+            line-height: 1.55;
+        }
+
+        a {
+            border-radius: 6px;
+
+            &:hover {
+                color: var(--accent);
+                background: var(--accent-soft);
+                text-decoration: none;
+            }
+        }
+    }
+}
+
+.page {
+    .page__content {
+        padding: 2.4em 3em 3em;
+        background: var(--paper);
+        border: 1px solid var(--line);
+        border-radius: 18px;
+        box-shadow: var(--shadow);
+    }
+}
+
+.page__content {
+    color: #35445a;
+
+    p {
+        margin-bottom: 1.15em;
+    }
+
+    h1 {
+        position: relative;
+        margin-top: 2.15em;
+        padding: 0 0 .55em;
+        color: var(--ink);
+        font-size: 1.55rem;
+        letter-spacing: -.025em;
+        border-bottom: 1px solid var(--line);
+
+        &:first-of-type {
+            margin-top: 0;
+        }
+
+        &:after {
+            content: "";
+            position: absolute;
+            bottom: -1px;
+            left: 0;
+            width: 3.1rem;
+            height: 3px;
+            background: var(--accent);
+            border-radius: 3px;
+        }
+    }
+
+    a {
+        color: var(--accent);
+        text-decoration-color: rgba(47, 111, 143, .35);
+        text-underline-offset: 3px;
+    }
+
+    ul {
+        padding-left: 1.35em;
+    }
+
+    li::marker {
+        color: #7ea7b8;
+    }
+}
+
+.paper-box {
+    gap: 0;
+    margin: 1.25em 0;
+    padding: 1.2em;
+    background: #fbfcfd;
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    box-shadow: 0 7px 20px rgba(23, 38, 61, .045);
+    transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease;
+
+    &:hover {
+        transform: translateY(-3px);
+        border-color: #b9d1da;
+        box-shadow: 0 14px 28px rgba(23, 38, 61, .1);
+    }
+
+    .paper-box-image {
+        img {
+            max-width: 360px;
+            border-radius: 9px;
+            box-shadow: none;
+        }
+    }
+
+    .paper-box-text {
+        color: #415168;
+        line-height: 1.65;
+
+        strong {
+            color: var(--ink);
+        }
+    }
+}
+
+@include breakpoint(max-width $medium) {
+    #main {
+        margin-top: 1.25em;
+        padding-left: .85em;
+        padding-right: .85em;
+    }
+
+    .sidebar,
+    .page .page__content {
+        border-radius: 14px;
+    }
+
+    .sidebar {
+        padding: 1.15em;
+    }
+
+    .page .page__content {
+        padding: 1.5em 1.1em 2em;
+    }
+
+    .paper-box {
+        padding: 1em;
+
+        .paper-box-image,
+        .paper-box-text {
+            max-width: 100%;
+        }
+
+        .paper-box-text {
+            padding-left: 0;
+            padding-top: 1em;
+        }
+    }
+}
+
 .paper-box {
     display: flex;
     justify-content: left;
@@ -106,4 +345,53 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
+}
+
+/* Keep publication cards polished after the theme defaults are loaded. */
+.page__content .paper-box {
+    gap: 0;
+    margin: 1.25em 0;
+    padding: 1.2em;
+    background: #fbfcfd;
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    box-shadow: 0 7px 20px rgba(23, 38, 61, .045);
+    transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease;
+
+    &:hover {
+        transform: translateY(-3px);
+        border-color: #b9d1da;
+        box-shadow: 0 14px 28px rgba(23, 38, 61, .1);
+    }
+
+    .paper-box-image img {
+        max-width: 360px;
+        border-radius: 9px;
+        box-shadow: none;
+    }
+
+    .paper-box-text {
+        color: #415168;
+        line-height: 1.65;
+
+        strong {
+            color: var(--ink);
+        }
+    }
+}
+
+@include breakpoint(max-width $medium) {
+    .page__content .paper-box {
+        padding: 1em;
+
+        .paper-box-image,
+        .paper-box-text {
+            max-width: 100%;
+        }
+
+        .paper-box-text {
+            padding-left: 0;
+            padding-top: 1em;
+        }
+    }
 }
