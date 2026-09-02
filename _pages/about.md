@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D student in Cho Chun Shik Graduate School of Mobility at Tongji University, supervised by [Prof. Inhi Kim](https://www.inhi.kim/people/7b25f228-be90-8273-af58-81dc24cc9870). I received my Bachelor's and Master's degrees in Transportation Engineering from Tongji University, supervised by [Prof. Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) and [Prof. Ye Tian](https://tops.tongji.edu.cn/info/1031/1185.htm).
+I am a Ph.D student in Cho Chun Shik Graduate School of Mobility at Korea Advanced Institute of Science and Technology, supervised by [Prof. Inhi Kim](https://www.inhi.kim/people/7b25f228-be90-8273-af58-81dc24cc9870). I received my Bachelor's and Master's degrees in Transportation Engineering from Tongji University, supervised by [Prof. Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) and [Prof. Ye Tian](https://tops.tongji.edu.cn/info/1031/1185.htm).
 
 My research focuses on human-machine interaction, game theory, behavioral psychology, and AI safety, with applications in intelligent transportation systems and autonomous driving. My goal is to build safer and more trustworthy intelligent transportation systems.
 
