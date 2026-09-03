@@ -123,11 +123,13 @@ body {
     .author__name {
         color: var(--ink);
         letter-spacing: -.02em;
+        text-align: center;
     }
 
     .author__bio {
         color: var(--muted-ink);
         line-height: 1.5;
+        text-align: center;
     }
 
     .author__urls {
