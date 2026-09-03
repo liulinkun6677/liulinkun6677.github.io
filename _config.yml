@@ -21,7 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Linkun Liu(刘林坤)"
+  name             : "Linkun Liu"
+  name_zh          : "刘林坤"
   avatar           : "images/llk.jpg"
   bio              : "Korea Advanced Institute of Science and Technology"
   location         : "Daejeon, Korea"
