@@ -23,10 +23,12 @@ My research focuses on human-machine interaction, game theory, behavioral psycho
 
 If you are interested in related questions, I am always happy to connect and exchange ideas.
 
+In my free time, I play the oboe (Grade 10) <span aria-hidden="true">🎵</span> and guitar <span aria-hidden="true">🎸</span>, play and watch football <span aria-hidden="true">⚽</span>, and enjoy strategy games by Paradox Interactive <span aria-hidden="true">🎮</span>.
+
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉 My recent work **When Trust Meets Deception: Evaluating the Contextual Effectiveness of Deceptive eHMI in Autonomous Vehicle Interactions** has been accepted by **IEEE Transactions on Intelligent Transportation Systems**(IF=8.4). 🚦 This work will be available online soon. 
-- *2026.01*: &nbsp;🎉🎉 My paper **Should Benevolent Deception Be Allowed in EHMI? A Mechanism Explanation Based on Game Theory** has been accepted by **IEEE Transactions on Intelligent Transportation Systems**(IF=8.4). 📊
+- *2026.02*: &nbsp;🎉🎉 My recent work **When Trust Meets Deception: Evaluating the Contextual Effectiveness of Deceptive eHMI in Autonomous Vehicle Interactions** has been accepted by **IEEE Transactions on Intelligent Transportation Systems** (IF: 9.1, 2026 JCR). 🚦 This work will be available online soon.
+- *2026.01*: &nbsp;🎉🎉 My paper **Should Benevolent Deception Be Allowed in EHMI? A Mechanism Explanation Based on Game Theory** has been accepted by **IEEE Transactions on Intelligent Transportation Systems** (IF: 9.1, 2026 JCR). 📊
 - *2024.04*: &nbsp;🎉🎉 My paper **Should Altruistic Deception of HAVs be Permitted? A Case Study of Unprotected Left Turns under EHMI Application** has been accepted by the 35th IEEE Intelligent Vehicles Symposium (IV 2024). I will present this work orally on June 21–24, 2024, in Jeju, Korea. 🚗
 - *2023.10*: &nbsp;🎉🎉 My paper **Impact of EHMI on Alleviation of Human-Machine Conflict - Taking Unprotected Left Turn Scenario as an Example** has been accepted to TRB 2024.💡 I will be attending the conference from Jan 7–14, 2024 in Washington, D.C.
 
