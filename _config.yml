@@ -14,6 +14,10 @@ google_scholar_stats_use_cdn : true
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
+# GoatCounter: paste the public https://YOUR-CODE.goatcounter.com/count endpoint.
+# Leave empty to disable. Dashboard: https://YOUR-CODE.goatcounter.com/
+goatcounter_endpoint     : "https://liulinkun.goatcounter.com/count"
+
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
